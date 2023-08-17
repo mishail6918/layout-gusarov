@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'TTFirs-ExtraBold';
+    src: url("../assets/fonts/TT\ Firs\ Extrabold\ [TheFontsMaster.com].otf") format('truetype');
+}
+@font-face {
+    font-family: 'TTFirs-Black';
+    src: url("../assets/fonts/TT\ Firs\ Black\ [TheFontsMaster.com].otf") format('truetype');
+}
+
+@font-face {
+    font-family: 'TTFirs-Bold';
+    src: url("../assets/fonts/TT\ Firs\ Bold\ [TheFontsMaster.com].otf") format('truetype');
+}
